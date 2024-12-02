@@ -1,0 +1,21 @@
+# Core Python Libraries
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn>
+# Deep Learning and Neural Networks
+tensorflow
+keras
+
+# Web Application
+streamlit>=1.10.0
+
+# Additional Utilities
+joblib>=1.1.0
+
+# Optional: For potential future data visualization
+plotly>=5.0.0
+
+# Ensure compatibility
+setuptools>=58.0.0
